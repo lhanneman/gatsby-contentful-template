@@ -25,7 +25,7 @@
     "gatsby-transformer-sharp": "^3.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-id-swiper": "^4.0.0",
-    "swiper": "^6.5.0"
+    "react-id-swiper": "^3.0.0",
+    "swiper": "^5.3.8"
   }
 }

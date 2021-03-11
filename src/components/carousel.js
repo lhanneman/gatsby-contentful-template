@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 import Swiper from "react-id-swiper"
 
-import "swiper/swiper.min.css"
+import "swiper/css/swiper.css"
 import "./carousel.css"
 
 export const Carousel = ({ images }) => {
