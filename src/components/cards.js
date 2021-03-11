@@ -1,7 +1,7 @@
 import classNames from "classnames"
 import PropTypes from "prop-types"
 import React from "react"
-import Card from "./Card"
+import Card from "./card"
 
 const Cards = ({ items, hideLastItemOnMobile = false }) => {
   return (

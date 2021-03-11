@@ -4,7 +4,7 @@ import React from "react"
 import Swiper from "react-id-swiper"
 
 import "swiper/swiper.min.css"
-import "./Carousel.css"
+import "./carousel.css"
 
 export const Carousel = ({ images }) => {
   const swiperParams = {
